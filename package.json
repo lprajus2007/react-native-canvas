@@ -7,9 +7,9 @@
   "version": "0.0.5",
   "description": "A Canvas element for React Native",
   "main": "Canvas.js",
-  "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
+  "author": "Facebook",
   "dependencies": {
-    "react-native": "git://github.com/lwansbrough/react-native.git#webview-improvements"
+    "react-native": "git://github.com/facebook/react-native.git"
   },
   "keywords": [
     "react-native",
